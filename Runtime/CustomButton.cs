@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
-using EasyButtons;
+using VInspector;
 
 namespace Meangpu.UI
 {
